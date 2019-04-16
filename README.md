@@ -15,7 +15,7 @@ This is a web application that lists various News sources gotten from various ne
 
 ## Setup/Installation Requirements
 * internet access
-* git clone https://github.com/twyfordsparks/news
+* git clone https://github.com/twyfordsparks/Highlights
 * $ cd news
 * $ python3.6 -m venv virtual (install virtual environment)
 * $ source virtual/bin/activate
