@@ -24,9 +24,11 @@ This is a web application that lists various News sources gotten from various ne
 
 ## Technologies Used
 
-Python3.6
-Flask framework
-Bootstrap
+1. Python3.6
+
+2. Flask framework
+
+3. Bootstrap
 ## Known Bugs
 
 There are no issues or bugs encountered yet while coming up with the programme but incase of anything,feel free to contact the devoloper through johnvictor0002@gmail.com.
